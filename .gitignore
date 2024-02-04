@@ -1,12 +1,5 @@
 **/node_modules/
-build
-
-build
-cache
 
 .Ds_Store
 .vscode
-
-**/build/
-**/generated/
-**/.env
+.env
